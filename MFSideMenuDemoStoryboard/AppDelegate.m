@@ -25,6 +25,9 @@
     [container setRightMenuViewController:rightSideMenuViewController];
     [container setCenterViewController:navigationController];
     
+    
+    // My test Eample 
+    
     return YES;
 }
 
